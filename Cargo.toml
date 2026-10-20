@@ -1,0 +1,11 @@
+[package]
+name = "rust-lsm-tree-storage-engine"
+version = "1.0.0"
+edition = "2021"
+authors = ["Felipe Madison <160553421+FelipeMadson@users.noreply.github.com>"]
+description = "High-performance embedded Log-Structured Merge-tree (LSM) key-value storage engine in Rust"
+license = "MIT"
+
+[dependencies]
+
+[dev-dependencies]
